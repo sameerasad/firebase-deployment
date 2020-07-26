@@ -7,4 +7,5 @@ setup firebase in local system
 1)open terminal or cmd its uo to you which operating sysytem you are using
 2)go to nodejs.org and install lts version of it.
 3)now check npm node -v to ensure that u have correctly installed node in your system.
+4)now install firebase in your local system by using "npm install firebase tool"
 
