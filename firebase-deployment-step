@@ -10,7 +10,7 @@ setup firebase in local system
 4)now install firebase in your local system by using "npm install firebase tool"
 5)go to the project directory and open terminal there and run command "firebase login " to login your account
 6)"firebase init" to initialize your project to firebase
-7)select desire options
+7)select desire   options
 8)run command "firebase deploy"
  
 
